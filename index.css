@@ -185,7 +185,7 @@ header {
 }
 
 .logo-img {
-  height: 150px;
+  height: 100px;
   width: auto;
   margin-right: 12px;
   transition: height 0.35s ease;
@@ -264,7 +264,7 @@ header.header-small:not(.header-transparent) {
 }
 
 header.header-small:not(.header-transparent) .logo-img {
-  height: 120px;
+  height: 80px;
 }
 
 .mobile-menu-btn {
